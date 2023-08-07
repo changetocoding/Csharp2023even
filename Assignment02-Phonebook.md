@@ -7,7 +7,7 @@ The only problem is it on one of those old Nokia brick phones.
 
 You should create a command line phone book application that must:
 1. Have an option to add a name and an *11* digit number. The number may begin with a 0.   
-Here is an example input/output from the console. First line is the user input, second line is the system response
+Here is an example input/output from the console. First line is the user input, second line is the system response:
 ```
 STORE david 07900001234
 OK
