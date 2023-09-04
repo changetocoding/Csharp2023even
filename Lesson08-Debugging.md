@@ -25,3 +25,6 @@ Microsoft website
 - ChatGPT - But make sure understand code, by debugging through it.
 - Testing - Will cover in next 5 lessons
 - Ask another person
+
+###
+Homework - https://learn.microsoft.com/en-us/training/modules/guided-project-debug-handle-exceptions-c-sharp-console-application/
