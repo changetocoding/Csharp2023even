@@ -27,4 +27,6 @@ Microsoft website
 - Ask another person
 
 ###
-Homework - https://learn.microsoft.com/en-us/training/modules/guided-project-debug-handle-exceptions-c-sharp-console-application/
+Homework 
+1. Guided debugging exercise - https://learn.microsoft.com/en-us/training/modules/guided-project-debug-handle-exceptions-c-sharp-console-application/
+2. Learn about classes and objects in C#. 2 Lucky people are going to have to explain to the class 
