@@ -15,7 +15,8 @@ Html describes how a web page should look
 - `<button>Click me!</button>` a button
 - `<p>Some text</p>` paragraph
 - `<label>From:</label>` a label
-- A dropdown ```
+- A dropdown
+ ```
           <select>
             <option>Micheal</option>
             <option>Edward</option>
