@@ -32,6 +32,8 @@ For example we can change the background colour to blue:
 
 You add to a tag:
 `style="THING TO CHANGE: VALUE TO CHANGE TO;"`
+
+
 The `;` at the end tells the compute that this is the end of a style. Means you can have multiple styles:
 `<h3 style="margin-top: 200px; background-color: black; color: white; ">Heading3</h3>`
  
