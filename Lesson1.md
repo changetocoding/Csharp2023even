@@ -27,8 +27,8 @@ Html describes how a web page should look
 ## CSS
 Css allows us to style a web page
 
-
-`<h1 style="background-color: blue;">Heading1</h1>` heading
+For example we can change the background colour to blue:
+`<h1 style="background-color: blue;">Heading1</h1>`
 
 You add to a tag:
 `style="THING TO CHANGE: VALUE TO CHANGE TO;"`
